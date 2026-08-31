@@ -1,0 +1,14 @@
+C:\Modul 319\MeinGitProjekt\bin\Debug\net10.0\MeinGitProjekt.exe
+C:\Modul 319\MeinGitProjekt\bin\Debug\net10.0\MeinGitProjekt.deps.json
+C:\Modul 319\MeinGitProjekt\bin\Debug\net10.0\MeinGitProjekt.runtimeconfig.json
+C:\Modul 319\MeinGitProjekt\bin\Debug\net10.0\MeinGitProjekt.dll
+C:\Modul 319\MeinGitProjekt\bin\Debug\net10.0\MeinGitProjekt.pdb
+C:\Modul 319\MeinGitProjekt\obj\Debug\net10.0\MeinGitProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Modul 319\MeinGitProjekt\obj\Debug\net10.0\MeinGitProjekt.AssemblyInfoInputs.cache
+C:\Modul 319\MeinGitProjekt\obj\Debug\net10.0\MeinGitProjekt.AssemblyInfo.cs
+C:\Modul 319\MeinGitProjekt\obj\Debug\net10.0\MeinGitProjekt.csproj.CoreCompileInputs.cache
+C:\Modul 319\MeinGitProjekt\obj\Debug\net10.0\MeinGitProjekt.dll
+C:\Modul 319\MeinGitProjekt\obj\Debug\net10.0\refint\MeinGitProjekt.dll
+C:\Modul 319\MeinGitProjekt\obj\Debug\net10.0\MeinGitProjekt.pdb
+C:\Modul 319\MeinGitProjekt\obj\Debug\net10.0\MeinGitProjekt.genruntimeconfig.cache
+C:\Modul 319\MeinGitProjekt\obj\Debug\net10.0\ref\MeinGitProjekt.dll
